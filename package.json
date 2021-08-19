@@ -1,0 +1,13 @@
+{
+  "name": "node-webserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Roland Olah <me@hi-roland.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
